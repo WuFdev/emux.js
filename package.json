@@ -1,0 +1,11 @@
+{
+  "name": "emuxjs",
+  "version": "1.0.0",
+  "description": "xbox emu",
+  "main": "emu.js",
+  "scripts": {
+    "test": "debug"
+  },
+  "author": "wufdev",
+  "license": "ISC"
+}
